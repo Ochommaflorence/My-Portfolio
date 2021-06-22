@@ -4,7 +4,7 @@ export const projects = [
     title: "Movie App",
     image: "/Images/pic2.PNG",
     description: "A movie app with series of movies .",
-    siteLink: "https://florrie-movie-app.netlify.app/",
+    siteLink: "https://florrie-movie-app.netlify.app",
     technology: "HTML, CSS, Bootstrap, Axios and  React"
   },
 

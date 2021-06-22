@@ -1,7 +1,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Route, Switch } from "react-router-dom";
 import "./App.css";
-// import Footer from "./Components/Footer";
+import Footer from "./Components/Footer";
 import Navbar from "./Components/Navbar";
 import About from "./Components/Pages/About";
 import Contact from "./Components/Pages/Contact";
@@ -34,7 +34,7 @@ function App() {
           <Contact />
         </Route>
       </Switch>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
