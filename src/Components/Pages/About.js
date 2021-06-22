@@ -6,12 +6,12 @@ const About = () => {
     <section className="container about" id="about">
       <h2 className="title">About me</h2>
       <div className="row">
-        <div className="col-md-6 mt-4">
+        <div className=" about-img  col-md-6 mt-3">
           <img
             src={pic3}
             alt="profile-pic"
             className="img-fluid"
-            id="image__img"
+          
           />
         </div>
         <div className="col-md-6 mt-2">

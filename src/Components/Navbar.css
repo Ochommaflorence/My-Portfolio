@@ -113,7 +113,7 @@
     }
   
     .nav-menu.active {
-      background: #282c34;
+      background: #353839;
       left: 0;
       opacity: 1;
       transition: all 0.5s ease;
@@ -165,7 +165,7 @@
       width: 80%;
       text-decoration: none;
       font-size: 1.5rem;
-      background-color: #282c34;
+      background-color: #353839;
       color: #fff;
       padding: 14px 20px;
       border: 1px solid #fff;
