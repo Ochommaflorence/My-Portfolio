@@ -17,7 +17,7 @@ const About = () => {
         <div className="col-md-6 mt-2">
           <div className="about-info text-white">
             <p className="header-text">
-              Hey it's florrie, i am a Web developer and Designer from Abia
+              Hey it's florrie 😊, i am a Web developer and Designer from Abia
               State, Lagos Nigeria.
             </p>
             <p>
