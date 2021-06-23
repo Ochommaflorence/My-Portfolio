@@ -19,7 +19,7 @@ const About = () => {
               I enjoy taking complex problems and turning them into simple and
               beautiful interface designs. I also love the logic and structure
               of coding and always strive to write elegant and efficient codes,
-              wheather it be HTML or CSS or React.
+              whether it be HTML or CSS or React.
             </p>
             <p>
               When i am not coding or pushing pixels, you'll find me watching
