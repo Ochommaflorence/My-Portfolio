@@ -12,7 +12,7 @@ body {
 
 /* Home Section Styling */
 #home {
-  margin-top: 15em;
+  margin-top: 9em;
 }
 #home .max-width {
   margin: auto 0 auto 40px;
@@ -74,7 +74,7 @@ body {
 
 /* About Section styling */
 #about {
-  margin-top: 10em;
+  margin-top: 9em;
 }
 .about {
   font-family: "Poppins", sans-serif;
@@ -183,7 +183,7 @@ body {
 
 /* Skills Section styling */
 #skills {
-  margin-top: 10em;
+  margin-top: 9em;
   font-family: "Poppins", sans-serif;
 }
 
@@ -266,7 +266,7 @@ body {
 
 /* Projects Section styling */
 #projects {
-  margin-top: 10em;
+  margin-top: 9em;
   font-family: "Poppins", sans-serif;
 }
 
