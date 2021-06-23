@@ -44,7 +44,7 @@ const Contact = () => {
 
   return (
     <section className="container mb-4" id="contact">
-      <h2 className="title">Contact us</h2>
+      <h2 className="title">Contact me</h2>
       <div className="row">
         <div className="col-md-6">
           <div className="contact-content">

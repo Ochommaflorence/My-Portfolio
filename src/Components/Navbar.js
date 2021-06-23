@@ -16,7 +16,7 @@ const Navbar = () => {
             className="navbar-logo pb-3"
             onClick={closeMobileMenu}
           >
-            Portfo<span>lio.</span>
+            Florr<span>ie.</span>
           </NavLink>
           <div className="menu-icon" onClick={handleClick}>
             <i className={click ? "fas fa-times" : "fas fa-bars"} />

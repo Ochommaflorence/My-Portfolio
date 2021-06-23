@@ -10,7 +10,7 @@ const Home = () => {
           <div className="max-width">
             <div className="home-content">
               <div className="text-1">Hello, my name is</div>
-              <div className="text-2">Ochomma Florence.</div>
+              <div className="text-2">Florence Ochomma.</div>
               <div className="text-3">
                 <span>
                   <Typed
