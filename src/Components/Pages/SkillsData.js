@@ -41,4 +41,8 @@ export const skills = [
       id: 10,
       skill: "MaterialUi",
     },
+    {
+      id: 11,
+      skill: "ContextApi",
+    },
   ];

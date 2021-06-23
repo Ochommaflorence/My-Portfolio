@@ -7,12 +7,7 @@ const About = () => {
       <h2 className="title">About me</h2>
       <div className="row">
         <div className=" about-img  col-md-6 mt-3">
-          <img
-            src={pic3}
-            alt="profile-pic"
-            className="img-fluid"
-          
-          />
+          <img src={pic3} alt="profile-pic" className="img-fluid" />
         </div>
         <div className="col-md-6 mt-2">
           <div className="about-info text-white">

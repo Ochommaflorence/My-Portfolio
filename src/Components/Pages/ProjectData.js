@@ -3,14 +3,14 @@ export const projects = [
     id: 1,
     title: "Movie App",
     image: require("../../Images/pic2.PNG"),
-    description: "A movie app with series of movies .",
+    description: "A movie app with series of movies to be choosen and added to your favorite.",
     siteLink: "https://florrie-movie-app.netlify.app",
     technology: "HTML, CSS, Bootstrap, Axios and  React"
   },
 
   {
     id: 2,
-    title: "A Shopping ",
+    title: "A Ecommerce Site",
     image: require("../../Images/pic3.PNG"),
     description: "An e-commerce platform where you get to see products, you can add to cart, checkout and make payment with payStack payment gateway.",
     siteLink: "https://get-it-now.netlify.app",
